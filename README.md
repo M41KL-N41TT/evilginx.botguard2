@@ -3,7 +3,7 @@
     <img alt="Evilginx" src="https://raw.githubusercontent.com/kgretzky/evilginx2/master/media/img/evilginx2-title-black-512.png" height="60" />
   <img alt="Dot" src="https://fontmeme.com/permalink/220128/1d7d530a9125676cd8dd5f505cc69831.png" height="10" />
     <img alt="Botguard" src="https://fontmeme.com/permalink/220128/bb533f894a48dd9253154f24a45f00d6.png" height="60" />
-    <img alt="Yao Ming Face" src="https://www.pngall.com/wp-content/uploads/2016/05/Yao-Ming-Face-PNG.png" height="80" s />
+    <img alt="Yao Ming Face" src="https://i.imgur.com/NYGmL6a.png" height="122" />
 </div>
 <div align="center" style="padding: 100px;">
 
@@ -11,6 +11,8 @@
 </div>
 
 ![output](https://github.com/M41KL-N41TT/evilginx.botguard2/assets/106442797/ffb5b795-2e9f-4acf-9009-e957b9b2ca75)
+
+
 
 ## The Sequel Nobody Asked For, But Desperately Needed
 
